@@ -11,7 +11,7 @@ https://github.com/Telerik-Verified-Plugins/ImagePicker
 The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
-    $ ionic cordova plugin add cordova-plugin-telerik-imagepicker --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    $ ionic cordova plugin add cordova-plugin-telerik-imagepicker2 --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
     $ npm install --save @ionic-native/image-picker
 
 ## License
